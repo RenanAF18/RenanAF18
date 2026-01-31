@@ -25,14 +25,6 @@
 
 ---
 
-### 🚀 Experiência
-**Monitor de Programação 1 – UFCG**  
-📅 *Jun/2025 – Set/2025*  
-- Responsável pelo primeiro contato de alunos com programação  
-- Apoio na construção de uma base sólida em lógica e algoritmos  
-
----
-
 ### 📚 Formação
 🎓 **Bacharelado em Ciência da Computação – UFCG**  
 📅 *Out/2024 – Jun/2029* (cursando – 3º período)
@@ -49,12 +41,6 @@
 ### 🏆 Competições
 - 🥇 **Olimpíada Paraibana de Informática (OPI)** – Ouro (Avançado Júnior)  
 - 🏁 **ICPC** – Primeira fase (convite acadêmico)
-
----
-
-### 🌍 Idiomas
-- 🇧🇷 Português — nativo  
-- 🇺🇸 Inglês — leitura boa, escrita e compreensão razoáveis  
 
 ---
 
