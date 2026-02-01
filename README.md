@@ -19,7 +19,7 @@
 - **Estruturas de Dados & Algoritmos:**  
   Análise de complexidade, resolução de problemas e algoritmos avançados  
 - **Ciência de Dados:**  
-  Pandas (nível intermediário), manipulação e análise básica de dados  
+  Pandas (nível básico), manipulação e análise básica de dados  
 - **Competitive Programming:**  
   Experiência em competições regionais e nacionais  
 
